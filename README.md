@@ -73,13 +73,17 @@ The system uses pre-trained deep learning models for feature extraction and appl
 ## ⚙️ Installation
 
 1. Clone repository:
+   
   git clone https://github.com/pranavi0906/alzheimers-navigator.git
+
   cd alzheimers-navigator
 
 2. Install dependencies:
+   
    pip install -r requirements.txt
  
 3. Run the application:
+   
    streamlit run app.py
 
 ---
