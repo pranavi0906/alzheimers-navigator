@@ -74,9 +74,9 @@ The system uses pre-trained deep learning models for feature extraction and appl
 
 1. Clone repository:
    
-  git clone https://github.com/pranavi0906/alzheimers-navigator.git
+   git clone https://github.com/pranavi0906/alzheimers-navigator.git
 
-  cd alzheimers-navigator
+   cd alzheimers-navigator
 
 2. Install dependencies:
    
